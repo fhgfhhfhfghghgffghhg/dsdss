@@ -1,0 +1,70 @@
+header{
+	border:5px solid gold;
+	padding:30px;
+	background-color:blue;
+	
+	
+}
+a{
+	color:red;
+	text-decoration:none;
+	border:1px solid black;
+	border-radius:10px;
+	padding:10px;
+	margin:5px;
+	text-align:center;
+}
+
+h1{
+	background-color:khaki;
+	font-size:20px;
+	text-align:center;
+	font-family:cursive;
+	
+}
+h2,h4{
+	font-size:40px;
+	text-align:center;
+	color:lightgreen;
+	background-color:blue;
+	font-family:cursive;
+}
+img{
+	margin:50px;
+	
+	
+	
+}
+table{
+	font-family:cursive;
+	border-collapse:collapse;
+	font-size:30px;
+	text-align:center;
+	
+}
+h3{
+	font-family:cursive;
+	font-size:40px;
+	text-align:center;
+	color:lightgreen;
+	background-color:blue;
+}
+p{
+	font-family:cursive;
+	font-size:30px;
+	text-align:left;
+	
+}
+footer{
+	font-family:cursive;
+	font-size:30px;
+	background-color:white;
+	border:1px solid green;
+	
+}
+
+td{
+	padding:40px;
+}
+
+
